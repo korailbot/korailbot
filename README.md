@@ -12,6 +12,11 @@ Google API.ai, IBM Watson Conversation API, Microsoft Bot Framework를 검토했
 
 그 결과가 어떨지는...???
 
+
+
+
+
+
 ------
 두구둥~     Coming soon...
 ------
