@@ -1,5 +1,7 @@
 # korailbot
 
+![ktx_image](https://github.com/korailbot/korailbot/blob/master/EMU250-800x405.jpg)
+
 
 
 스터디에서 만난 사람들과 처음으로 프로젝트를 진행하게 되었습니다.
